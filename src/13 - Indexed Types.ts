@@ -1,3 +1,4 @@
+// solution
 type Cars = ["Bugatti", "Ferarri", "Lambo", "Porsche", "Toyota Corolla"];
 
 type Donations = {
@@ -10,3 +11,7 @@ type Donations = {
 
 type TheCoolestCarEverMade = Cars[4];
 type TruckDriverBonusGiver = Donations["Taylor Swift"];
+
+// example
+const theCoolestCarEverMade: TheCoolestCarEverMade[] = ["Toyota Corolla"];
+const truckDriverBonusGiver: TruckDriverBonusGiver = 45_000_000;
